@@ -1,7 +1,10 @@
-## Howdy Coders!
+# Hello, coders
 
-### My Background
+I'm an accomplished system administrator and developer with over seventeen years of enterprise level experience in a higher education environment.
 
-My IT career started back in the late 90's when I joined the Army. My MOS \(military occupational skill\) was in mobile communications. Upon leaving the Army, I worked as a contractor for WorldCom configuring remote circuit connections. In 2003, I landed a job as temp at UC Davis. From there things took off and in a few years, I became a system admin with developer duties assigned. Currently, I'm an application developer on the DevOps team for the College of Engineering.
+- Developed .NET C# MVC web applications and automation that allowed departmental IT staff to provision, modify, and report on user and cloud service accounts and resources
+- Served as primary university-wide administrator for enterprise instances of Box.com, CrashPlan, and Mediasite
+- Created automated processes to sync membership of Active Directory and cloud service access groups with university data sources
+- Supported scientific research units by creating serverless solutions utilizing Amazon Web Service’s RDS, Lambda, and API Gateway
 
 
